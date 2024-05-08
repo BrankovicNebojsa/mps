@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/DataDictionaryDSLLanguage/DataDictionaryDSLLanguage.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/DataDictionaryDSL/DataDictionaryDSL.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/DataDictionaryDSLSolution/DataDictionaryDSLSolution.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/NewSolution/NewSolution.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
